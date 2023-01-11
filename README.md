@@ -1,5 +1,5 @@
 <div align='center'> 
-<a href='https://smoltypo.github.io' target="_blank"><img src="./theLuna.png" width='200' target="_blank"></a>
+<a href='https://smoltypo.github.io'><img src="./theLuna.png" width='200'></a>
 </div>
 
 - 🦢 Hi, I’m Gemma, on GitHub my username is @smolTypo
